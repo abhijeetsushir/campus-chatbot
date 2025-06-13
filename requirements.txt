@@ -1,0 +1,5 @@
+streamlit
+nltk
+requests
+python-dotenv
+groq
