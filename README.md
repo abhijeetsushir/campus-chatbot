@@ -11,4 +11,10 @@ A smart campus assistant chatbot built using Streamlit and Groq’s LLaMA 3 mode
 - ⚡ Clean, responsive Streamlit UI
 
 ## 📁 Project Structure
-
+📦 icloud_campusCHATbot
+├── app.py # Streamlit UI code
+├── llm_response.py # Logic to fetch replies from JSON or Groq LLM
+├── faq_data.json # Preloaded campus FAQs
+├── .env # Stores your GROQ_API_KEY (not tracked in Git)
+├── .gitignore
+└── requirements.txt # Python dependencies
